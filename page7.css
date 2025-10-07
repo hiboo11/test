@@ -1,0 +1,42 @@
+
+label{
+display: block;
+position: relative;
+left: 10px;
+}
+.s1{
+    background: green;
+    color: aliceblue;
+    width: 700px;
+    height: 40px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.s2{
+    display: flex;
+
+}
+.s3{
+    width: 600px;
+    height: 35px;
+    border-radius: 10px;
+}
+.s4{
+   height: 35px;
+    border-radius: 10px; 
+    }
+    .s5{
+       height: 35px;
+    border-radius: 10px; 
+    }
+    .s6{
+
+    border-radius: 10px;  
+    }
+    .part1{
+        background: rgb(154, 156, 202);
+        color: aliceblue;
+        width: 700px;
+        border-radius: 10px;
+        padding: 10px 20px;
+    }

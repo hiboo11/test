@@ -1,0 +1,32 @@
+.about{
+    display: flex;
+background-color: rgb(247, 245, 245);
+
+
+}
+h1 {
+    display: block;
+     padding-top: 40px;
+     text-shadow: 5px 5px 4px rgb(148, 147, 147);
+     filter: drop-shadow(5px 5px 10px rgb(250, 231, 231));
+     font-weight: 300; /* Thin weight (100–300 is usually thin) */
+      font-family: Arial, sans-serif; /* Optional: clean font */
+}
+    
+
+.part2{
+    margin: 30px;
+}
+button{
+    background-color: rgb(42, 233, 233);
+    color: rgb(23, 22, 22);
+    width: 150px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    
+}
+p{
+    color: gray;
+    font-size: small;
+}

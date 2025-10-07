@@ -1,0 +1,48 @@
+*{
+margin: 0;
+border-radius: 15px;
+}
+img{
+height: 150px;
+width: 150px;
+}
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: rgb(44, 37, 82);
+height: 100px;
+}
+.items{
+display: flex;
+gap: 20px;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(231, 220, 220);
+}
+button{
+    text-decoration: none;
+color:rgb(215, 228, 239);
+background-color: rgb(67, 67, 118);
+}
+.part2{
+display: flex;
+justify-content: space-between ;
+}
+.y2{
+display: flex;
+gap: 20px;
+}
+.part3{
+
+display: flex;
+flex-direction: row-reverse;
+gap: 15px;
+}
+.w1{
+display: flex;
+justify-content: start;
+
+}
