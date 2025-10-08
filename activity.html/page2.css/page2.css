@@ -1,0 +1,65 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+    height: 100vh;
+}
+.content{
+padding-top: 10px;
+text-align: center;
+}
+.card{
+    padding: 2em;
+background:#fff;
+width:400px;
+border-radius: 12px;
+box-shadow: 0 6px 16px rgb(0, 0, 1);
+}
+
+.card img{
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.p1{
+    background-color: yellow;
+    padding: 3px;
+    border-radius: 20%;
+}
+
+.date{
+    color:#555;
+    font-size: 13px;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.auth{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(139, 88, 187);
+    padding: 1em;
+}
+
+.auth img{
+height: 35px;
+width: 35px;
+border-radius: 80%;
+}
+.ctn{
+    margin: 0;
+    color: #555;
+}
+.y1{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 10px;
+}
